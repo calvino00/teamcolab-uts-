@@ -1,0 +1,7 @@
+D:\term 3\team-collaboration\uts\teamcolab(uts)\teamcolab(uts)\bin\Debug\teamcolab(uts).exe.config
+D:\term 3\team-collaboration\uts\teamcolab(uts)\teamcolab(uts)\bin\Debug\teamcolab(uts).exe
+D:\term 3\team-collaboration\uts\teamcolab(uts)\teamcolab(uts)\bin\Debug\teamcolab(uts).pdb
+D:\term 3\team-collaboration\uts\teamcolab(uts)\teamcolab(uts)\obj\Debug\teamcolab(uts).csprojAssemblyReference.cache
+D:\term 3\team-collaboration\uts\teamcolab(uts)\teamcolab(uts)\obj\Debug\teamcolab(uts).csproj.CoreCompileInputs.cache
+D:\term 3\team-collaboration\uts\teamcolab(uts)\teamcolab(uts)\obj\Debug\teamcolab(uts).exe
+D:\term 3\team-collaboration\uts\teamcolab(uts)\teamcolab(uts)\obj\Debug\teamcolab(uts).pdb
